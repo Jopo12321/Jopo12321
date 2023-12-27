@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming, Electronics, Signal processing, Astronomy, Physics,...
 - 🌱 I’m currently learning Python, Matlab, and C for STM32 MCUs
 - 📫 You can reach me by email jozef.kromka22@gmail.com
-- 🥅 2022 Goals: Create a chess game for the game and watch and become better at programming
+- 🥅 2024 Goals: Create a chess game for the game and watch and become better at programming
 - 💞️ I’m looking to collaborate on the game and watch related projects
 
 ---
