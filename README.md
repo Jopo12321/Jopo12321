@@ -1,5 +1,5 @@
 # Jopo12321
-- 👋 Hi, I’m @Jopo12321. Currently, I am a PhD. graduate. My major is Electronics systems and signal processing. 
+- 👋 Hi, I’m @Jopo12321. I am a PhD. graduate currently enjoying my break. My major is Electronics systems and signal processing. 
 - 👀 I’m interested in Programming, Electronics, Signal processing, Astronomy, Physics,...
 - 🌱 I’m currently learning Python, Matlab, and C for STM32 and Raspberry Pi Pico MCUs
 - 📫 You can reach me by email jozef.kromka22@gmail.com
