@@ -8,7 +8,7 @@
 
 ---
 
-![Jozef's GitHub stats](https://github-readme-stats-noal6p1f3-jozef-kromkas-projects.vercel.app/api?username=Jopo12321&count_private=true&show_icons=true&theme=dark)
+![Jozef's GitHub stats](https://github-readme-stats-git-master-jozef-kromkas-projects.vercel.app/api?username=Jopo12321&count_private=true&show_icons=true&theme=dark)
 
 <!---
 Jopo12321/Jopo12321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
